@@ -1,0 +1,17 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[class*="col-"] {
+  border: 1px solid black;
+  text-align: center;
+  height: 20vh;
+  background: #188f44;
+}
+
+.nested {
+  border: 1px solid black;
+  background: #197cc3;
+}
