@@ -5,7 +5,7 @@
 }
 
 [class*="col-"] {
-  border: 1px solid black;
+  border: 15px solid black;
   text-align: center;
   height: 20vh;
   background: #188f44;

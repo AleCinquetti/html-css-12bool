@@ -1,0 +1,98 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+/* FIRST ROW */
+.first {
+  height: 150px;
+  border-bottom: 6px solid black;
+}
+
+#first-yellow {
+  background: yellow;
+  border-right: 6px solid black;
+}
+
+#yellow {
+  background: yellow;
+  border-bottom: 6px solid black;
+}
+
+
+/* SECOND ROW */
+.second {
+  height: 125px;
+}
+
+/* THIRD ROW */
+.third {
+  height: 125px;
+  border-bottom: 6px solid black;
+}
+
+/* SECOND & THRID ROW */
+#no-border-red {
+  background: rgb(245, 0, 0);
+}
+
+#w-border {
+  border-right: 6px solid black;
+}
+
+
+/* FOURTH ROW */
+.fourth {
+  height: 100px;
+}
+
+#black {
+  background: black;
+}
+
+#w-no-border-4 {
+  border-bottom: none;
+}
+
+
+/* FIFTH ROW */
+.fifth {
+  height: 100px;
+  border-top: 6px solid black;
+}
+
+#w-no-border-5 {
+  border-top: none;
+}
+
+
+
+/* COMUNI a PIU' ROW */
+.col-5 {
+  border-right: 6px solid black;
+}
+
+.col-4 {
+  border-right: 6px solid black;
+}
+
+
+/* (1) & (5) */
+#white {
+  background: white;
+  border-bottom: 6px solid black;
+}
+
+/* (1)-(2)-(4)-(5) */
+#blue {
+  background: rgb(29, 23, 139);
+}
+
+/* (3)-(4) */
+#red {
+  background: rgb(245, 0, 0);
+  border-top: 6px solid black;
+}
